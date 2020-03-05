@@ -53,6 +53,6 @@ workflows:
   ci:
     jobs:
       - build
-      - test-phpunit
+      - test-phpunit:
           requires:
             build
