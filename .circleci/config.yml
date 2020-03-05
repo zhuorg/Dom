@@ -39,7 +39,7 @@ jobs:
       - run: mkdir test/unit/_junit
       - run:
           name: PHPUnit tests
-          command: vendor/bin/phpunit -c test/unit/phpunit.xml --log-junit test/unit/_junit/junit.xml -d memory_limit=512M
+          command: vendor/bin/phpunit -c test/unit/phpunit.xml --log-junit test/unit/_junit/junit.xml
 
       - store_test_results:
           path: test/unit/_junit
