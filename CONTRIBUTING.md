@@ -1,5 +1,5 @@
 Contributing to a PHP.Gt repository
-===================================
+====================================
 
 🙌 🎉 Firstly, **thank you!** 🎉 🙌 If you're reading this, you're probably interested in contributing to a PHP.Gt repository in some way. Thank you for showing interest and taking the time to read this document.
 
